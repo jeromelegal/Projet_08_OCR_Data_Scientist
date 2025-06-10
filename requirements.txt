@@ -3,5 +3,5 @@ streamlit==1.40.1
 shap==0.46.0
 numpy==1.26.4
 bokeh==2.4.3
-requests==2.32.3
+requests==2.32.4
 matplotlib==3.6.3
